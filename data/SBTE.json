@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-11T12:50:28.861108+00:00",
+  "updated_at": "2026-05-11T12:50:30.816938+00:00",
   "data_referencia": "2026-05-11",
-  "airport_icao": "SBLO",
-  "airport_name": "SBLO",
+  "airport_icao": "SBTE",
+  "airport_name": "SBTE",
   "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
